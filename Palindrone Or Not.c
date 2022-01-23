@@ -126,6 +126,12 @@ void fs()
 		Sleep(75);
 		printf(" ");
 		Sleep(75);
+		printf("M");
+		Sleep(75);
+		printf("Y");
+		Sleep(75);
+		printf(" ");
+		Sleep(75);
 		printf("O");
 		Sleep(75);
 		printf("W");
