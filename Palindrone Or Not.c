@@ -144,7 +144,7 @@ void fs()
 		Sleep(75);
 		printf("O");
 		Sleep(75);
-		printf("U");
+		printf("R");
 		Sleep(75);
 		printf("L");
 		Sleep(75);
